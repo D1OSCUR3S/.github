@@ -41,6 +41,7 @@ Like the organization itself, every project is named after a figure or a place f
 | Project | Named after | What it is | Status |
 |---|---|---|---|
 | <a href="https://github.com/D1OSCUR3S/Ceos"><img src="https://raw.githubusercontent.com/D1OSCUR3S/.github/main/profile/assets/ceos-logo-wordmark.png" alt="Céos" height="40" /></a> | Coeus (*Céos*), the Titan of intellect and foresight | Modular, self-hosted AI assistant that manages your calendar and todos | 🚧 In progress |
+| <a href="https://github.com/D1OSCUR3S/pandore"><img src="https://raw.githubusercontent.com/D1OSCUR3S/.github/main/profile/assets/pandore-logo-wordmark.png" alt="Pandore" height="40" /></a> | Pandora (*Pandore*), whose box released everything it held once opened | Modular macOS notch app where every feature is an addon you can install from a file, a folder or a Git repo | 🚧 In progress |
 
 ## 🚀 What we do
 
